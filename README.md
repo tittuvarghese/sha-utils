@@ -30,7 +30,7 @@ This Go utility program hashes each line from an input file using a specified ha
 2. **Navigate to the directory**
 
     ```bash
-    cd your-repository
+    cd sha-utils
     go build -ldflags="-s -w" -o shautils
     ```
 3. **Usage**
